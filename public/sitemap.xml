@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/services</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/about</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/contactus</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Inspiration & Strength Individual Pages -->
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/ashim</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/arijit</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/deepak</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/jaybrat</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/abhishek</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/mantu</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/samrat</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/santos</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://freelanceramit-in.onrender.com/inspiration/pintu</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
