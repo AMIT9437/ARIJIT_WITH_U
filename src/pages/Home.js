@@ -6,9 +6,9 @@ export default function Home() {
   return (
     <div style={{ maxWidth: "1000px", margin: "auto", padding: "1rem" }}>
       <section style={{ textAlign: "center", marginBottom: "2rem" }}>
-        <h1>Welcome to Freelancer Amit's World</h1>
+        <h1>ARIJIT_WITH_U</h1>
         <p style={{ fontSize: "1.1rem", fontWeight: "500", color: "#555" }}>
-          Your one-stop destination for Web Development and Business Legal Services — from stunning websites to GST, ITR, and company registration.
+          DESCRIPTION HERE( MATE TUMA ANUSARE SEND KARIBA MU UPDATE KARIDEBI AU.
           <br />
           <strong>Affordable. Reliable. On Time. Every Time.</strong>
         </p>
@@ -17,21 +17,16 @@ export default function Home() {
       <section style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "1rem", textAlign: "center" }}>
         <img
           src="/images/your-photo.jpg"
-          alt="Amit's Photo"
+          alt="ARIJIT Photo"
           style={{ width: "130px", borderRadius: "50%", boxShadow: "0 4px 12px rgba(0,0,0,0.2)" }}
         />
-        <h2>AMIT SAMAL</h2>
+        <h2>ARIJIT PANDA</h2>
         <p style={{ lineHeight: "1.6", textAlign: "justify" }}>
-          🎓 <strong>About My Qualifications:</strong> I hold a Bachelor of Commerce (B.Com) degree with specialization in Accounting and Taxation.
-          and have successfully cleared CA Intermediate on July 6, 2025, strengthening my skills in accounting, audit, and taxation. I’m also pursuing the CMA qualification and recently appeared for CMA Intermediate (June 2026 term).
-          Additionally, I’m certified in GST, ITR filing, and compliance services.
+          🎓 <strong>About My Qualifications:</strong> UPDATE LATER.
           <br /><br />
-          💻 On the tech side, I specialize in full-stack web development using HTML, CSS, and Python (Flask). I'm skilled in tools like Canva and Photoshop to create sleek, custom graphics and designs. From legal registration to online presence, I provide one-stop business support for freelancers, influencers, and MSMEs.
-        </p>
+           SHORT DESCRIPTION 
         <p style={{ lineHeight: "1.6", textAlign: "justify" }}>
-          👋 <strong>About Me:</strong> I'm Amit Samal — passionate freelancer, business consultant, and web designer. I help individuals and small businesses
-          simplify legal processes like GST, ITR, and company registration while building powerful digital footprints through websites and design.
-          Let’s grow your business — financially and digitally.
+          👋 <strong>About Me:</strong> ABOUT U ( UPDATE LATER)
         </p>
       </section>
 
@@ -66,10 +61,11 @@ export default function Home() {
       </section>
 
       <footer style={{ marginTop: "3rem", textAlign: "center", fontSize: "0.9rem", color: "#777" }}>
-        <p><strong>About:</strong> Freelancer Amit provides 50+ services to entrepreneurs, students, influencers, and MSMEs across India.</p>
-        <p><strong>Contact Us:</strong> Email: amitfreelance.services@gmail.com | Phone: +91-8480927094</p>
-        <p>© 2025 Freelancer Amit. All Rights Reserved.</p>
+        <p><strong>About:</strong> ARIJIT WITH U</p>
+        <p><strong>Contact Us:</strong> Email: MAIL ID @gmail.com | Phone: +91-1212121212</p>
+        <p>© 2025 ARIJIT WITH U. All Rights Reserved.</p>
       </footer>
     </div>
   );
+
 }
