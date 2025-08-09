@@ -9,7 +9,9 @@ export default function Home() {
       <section style={{ textAlign: "center", marginBottom: "2rem" }}>
         <h1>ARIJIT_WITH_U</h1>
         <p style={{ fontSize: "1.1rem", fontWeight: "500", color: "#555" }}>
-          DESCRIPTION HERE (MATE TUMA ANUSARE SEND KARIBA MU UPDATE KARIDEBI AU.)
+          Welcome to The Arijit Panda: Dream 2 Success – your trusted partner in financial excellence.
+With 6+ years of experience as a Commerce Graduate, CA & CMA aspirant, and Registered GST Practitioner, I provide expert solutions in Audit, Taxation, Legal Compliance, Accounts Management, and Strategic Growth.
+I’m committed to delivering accurate, practical, and value-driven services to help you grow, stay compliant, and achieve your goals
           <br />
           <strong>Affordable. Reliable. On Time. Every Time.</strong>
         </p>
@@ -37,14 +39,20 @@ export default function Home() {
         <h2>ARIJIT PANDA</h2>
 
         <p style={{ lineHeight: "1.6", textAlign: "justify" }}>
-          🎓 <strong>About My Qualifications:</strong> UPDATE LATER.
+          🎓 <strong>About My Qualifications:</strong> I am a Commerce Graduate, currently pursuing CA & CMA, and a Registered GST Practitioner (GSTP) with 6 years of professional experience. My expertise includes Audit, Taxation, Legal Compliance, Accounts Management, Strategic Decision-Making, and Fund Management. I combine technical knowledge with practical insights to deliver effective, tailored financial solutions that help individuals and businesses thrive
           <br />
           SHORT DESCRIPTION
         </p>
 
-        <p style={{ lineHeight: "1.6", textAlign: "justify" }}>
-          👋 <strong>About Me:</strong> ABOUT U (UPDATE LATER)
-        </p>
+            <p style={{ lineHeight: "1.6", textAlign: "justify" }}>
+  👋 <strong>About Me:</strong> I am Arijit Panda, dedicated to delivering precise, practical, and value-driven financial solutions tailored to my clients’ needs. With proven leadership skills and a passion for inspiring teams, I foster a collaborative environment that turns challenges into opportunities.
+</p>
+<p style={{ lineHeight: "1.6", textAlign: "justify" }}>
+  I believe that solutions are not confined to four walls or a desk—by adopting innovative approaches and exploring new possibilities, I go beyond conventional methods to achieve impactful results.
+</p>
+<p style={{ lineHeight: "1.6", textAlign: "justify" }}>
+  💡 <em>Your One-Stop Solution – The Arijit Panda: Dream 2 Success</em> is not just a name—it’s a journey from Zero to One, focused on development, growth, value creation, and peace. Keep Smiling. Stay Happy.
+</p>
       </section>
 
       <hr style={{ margin: "2rem 0" }} />
@@ -80,3 +88,4 @@ export default function Home() {
     </div>
   );
 }
+
