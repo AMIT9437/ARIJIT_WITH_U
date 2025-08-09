@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header style={{ background: "#4a90e2", padding: "0.8rem 1rem", color: "white" }}>
       <nav style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap" }}>
-        <h2 style={{ margin: 0 }}>Freelancer Amit</h2>
+        <h2 style={{ margin: 0 }}>ARIJIT PANDA - DREAM TO SUCCESS</h2>
         <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap" }}>
           <Link to="/" style={{ color: "white", textDecoration: "none" }}>Home</Link>
           <Link to="/services" style={{ color: "white", textDecoration: "none" }}>Services</Link>
@@ -18,4 +18,5 @@ export default function Header() {
       </nav>
     </header>
   );
+
 }
